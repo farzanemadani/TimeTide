@@ -1,0 +1,23 @@
+{
+    "home": "Home",
+    "aboutus": "About Us",
+    "contactus":"Contact Us",
+    "GoodMorning":"Good Morning",
+    "GoodAfternoon":"Good Afternoon",
+    "GoodNight":"Good Night",
+    "dashboard":"Dashboard",
+    "todo":"To Do List",
+    "weather":"Weather",
+    "profile":"Profile",
+    "addNewTask":"Add New Task",
+    "description":"Enter your task below and hit 'Enter' to add it to your list.",
+    "enterTask":"Enter a new task",
+    "localWeather":"The Local Weather",
+    "weatherDescription":"The Local Weather allows you to track the current and future weather of cities of your choosing.",
+    "search":"search",
+    "username":"Username",
+    "theme":"Theme",
+    "language":"Language",
+    "welcomeMessage":"Welcome to TimeTide!"
+
+}

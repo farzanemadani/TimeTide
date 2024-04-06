@@ -1,0 +1,23 @@
+{
+    "home": "صفحه نخست",
+    "aboutus": "درباره ما",
+    "contactus":"تماس با ما",
+    "GoodMorning":"صبح بخیر",
+    "GoodAfternoon":"بعداز ظهر بخیر",
+    "GoodNight":"شب بخیر",
+    "dashboard":"داشبورد",
+    "todo":"تسک های پیش رو",
+    "weather":"آب وهوا",
+    "profile":"حساب کاربری",
+    "currentTime":"زمان فعلی",
+    "addNewTask":"اضافه کردن تسک",
+    "description":"تسک خود را در زیر وارد کنید و رو  کلید اینتر ضربه بزنید تا آن را به لیست خود اضافه کنید.",
+    "enterTask":"یک تسک جدید وارد کنید",
+    "localWeather":"آب و هوای محلی",
+    "weatherDescription":"آب و هوای محلی به شما امکان می دهد آب و هوای فعلی و آینده شهرهای مورد نظر خود را ردیابی کنید.",
+    "search":"جستجو",
+    "username":"نام کاربری",
+    "theme":"تم",
+    "language":"زبان",
+    "welcomeMessage":"به TimeTide خوش آمدید!"
+}
